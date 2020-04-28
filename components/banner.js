@@ -1,6 +1,6 @@
 const Banner = () => (
     <div>
-           <img style={{ 'display': 'block' }}  src="/public/group.jpg" />
+           <img style={{ 'display': 'block' }}  src='/public/sys.png' alt="" />
     </div>
 )
 
