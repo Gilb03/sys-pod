@@ -6,7 +6,7 @@ const Navbar = (props) => (
           <a className="navbar-item" href="#hosts">Organizers</a>
         </div>
         <div className="navbar-end">
-         {<a className="navbar-item" href="https://www.facebook.com/TheWRKFLW/?view_public_for=104958307569236" target="_blank">Apple</a>}
+         {<a className="navbar-item" href="https://podcasts.apple.com/us/podcast/shoot-your-shot-pod/id1333642650" target="_blank">Apple</a>}
          {<a className="navbar-item" href="https://open.spotify.com/show/4gdFPXUYTzDosNviKfPjxc" target="_blank">Spotify</a>}
          {<a className="navbar-item" href="https://soundcloud.com/shootyourshotpod" target="_blank">Soundcloud</a>}
          

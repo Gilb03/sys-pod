@@ -3,11 +3,11 @@ const Hosts = () => (
       <h2 className="title is-2">Hosts</h2>
       <div className="columns">
         <div className="column">
-          <a href="" target="_blank"><img src="/public/calvin.jpg" alt="" /></a> 
+          <a href="" target="_blank"><img src="../static/calvin.png" alt="" /></a> 
           <p className="title is-5">Calvin</p>
         </div>
         <div className="column">
-          <a href="" target="_blank"><img src="/public/alex.JPG" alt="" /></a> 
+          <a href="" target="_blank"><img src="../static/alex.JPG" alt="" /></a> 
           <p className="title is-5">Alex</p> 
         </div>
       </div>

@@ -7,7 +7,7 @@ const Footer = () => (
           background-color: #282828;
           text-align:center;
           color: white;
-          padding: 75px;
+          padding: 45px;
         }
         .title {
           color: white;
