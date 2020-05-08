@@ -7,7 +7,7 @@ const Hosts = () => (
           <p className="title is-5">Calvin</p>
         </div>
         <div className="column">
-          <a href="" target="_blank"><img src="../static/alex.JPG" alt="" /></a> 
+          <a href="" target="_blank"><img src="../static/allie.png" alt="" /></a> 
           <p className="title is-5">Alex</p> 
         </div>
       </div>
