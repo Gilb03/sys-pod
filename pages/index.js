@@ -10,8 +10,9 @@ export default () => (
   <Layout>
     <Navbar />
     <Header />
-    <Banner />
+    <Banner >
     <Tagline />
+    </Banner >
     <Hosts />
     <Footer />
   </Layout>

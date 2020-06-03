@@ -1,6 +1,6 @@
 const Banner = () => (
     <div>
-           <img src='/static/sys.png' alt="" />
+           <img src='/static/IMG_2501.JPG' alt="" />
            <style jsx>{`
         .elevator {
           text-align: center;
@@ -9,13 +9,14 @@ const Banner = () => (
           font-weight: bold;
         }
         img {
-            display: block;
-          height: 350px;
-          width:  450px;
-          margin-bottom:10px;
-          margin-left: auto;
-          margin-right: auto;
-          border-radius: 50%;
+          display: block;  
+          width: 100%;
+          height: auto;
+          background:cover;
+
+          
+
+
         }
       `}</style>
     </div>
