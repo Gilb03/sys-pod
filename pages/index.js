@@ -1,6 +1,6 @@
 import Layout from '../components/layout'
 import Header from '../components/header'
-import Hosts from '../components/hosts'
+//import Hosts from '../components/hosts'
 import Banner from '../components/banner'
 import Footer from '../components/footer'
 import Tagline from '../components/tagline'
@@ -13,7 +13,7 @@ export default () => (
     <Banner >
     <Tagline />
     </Banner >
-    <Hosts />
+  {/*  <Hosts /> */ } 
     <Footer />
   </Layout>
 )
