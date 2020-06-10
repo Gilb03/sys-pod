@@ -9,6 +9,7 @@ const Navbar = (props) => (
          {<a className="navbar-item" href="https://podcasts.apple.com/us/podcast/shoot-your-shot-pod/id1333642650" target="_blank">Apple</a>}
          {<a className="navbar-item" href="https://open.spotify.com/show/4gdFPXUYTzDosNviKfPjxc" target="_blank">Spotify</a>}
          {<a className="navbar-item" href="https://soundcloud.com/shootyourshotpod" target="_blank">Soundcloud</a>}
+         {<a className="navbar-item" href="https://play.google.com/music/listen#/ps/Ieszd4oig3tkrukocsg2etnheay" target="_blank">Google Play</a>}
          
         </div>
         <div className="navbar-item">
@@ -36,7 +37,7 @@ const Navbar = (props) => (
                 font-weight: bold;
               }
               img {
-                height: 250px;
+                height: 150px;
                 border-radius: 50%;
               }
           }

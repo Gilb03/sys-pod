@@ -12,7 +12,7 @@ const Banner = () => (
           display: block;  
           width: 100%;
           height: auto;
-          background:cover;
+          background-image:cover;
 
           
 
